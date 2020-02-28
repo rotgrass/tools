@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>http://172.23.250.30:8099/2.ipa</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>needs-shine</key>
+					<string>NO</string>
+					<key>url</key>
+					<string>http://7xnvqo.com1.z0.glb.clouddn.com/00c44d52a20c7636bb75793f17282a86</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<string>NO</string>
+					<key>url</key>
+					<string>http://7xnvqo.com1.z0.glb.clouddn.com/ec87fe61a80375b949448d6818da2659</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.gonglu.iosgonglu</string>
+				<key>bundle-version</key>
+				<string>6.11(6.11.1.8428)</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>subtitle</key>
+				<string>【供应商 DFL 限量2W】fleXorda UG (haftungsbeschrankt) </string>
+				<key>title</key>
+				<string>迅雷Beta</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
